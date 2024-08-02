@@ -1,0 +1,2148 @@
+#menu-home-margin {
+  margin-top: 0px;
+}
+.delete-adaptive-350{
+  display: flex;
+    justify-content: end;
+}
+.lololo{
+  display: flex;
+}
+.opop {
+  width: 70%;
+  border-radius: 20px;
+  margin-top: 50px;
+}
+.opopop {
+  width: 59%;
+  border-radius: 20px;
+  margin-top: 50px;
+}
+#aoaoao{
+  width: 300px;
+}
+#wowowo{
+  width: 100%; margin-top: 115px;
+}
+.wowo{
+  display: flex;
+  flex-direction: row-reverse;
+}
+#soso{
+  display: flex;
+   flex-direction: row-reverse;
+   margin-top: -70px;
+}
+.menu-messengers img{
+  width: 40px;
+}
+.btn-success{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500px;
+}
+#news{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 100px;
+}
+#news-h2{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  margin-top: 20px;
+}
+#news-h3{
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 20px;
+}
+#menu-messengers{
+  width: 25px;
+  margin-left: 10px;
+}
+.menu-messengers {
+  margin-left: 32px;
+  margin-top: 31px;
+}
+#pos{
+  font-size: 40px;
+  margin-top: 100px;
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  text-align: center;
+}
+.us-company-img img{
+  width: 50%;
+}
+.us-company-img{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.lol h2{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  text-align: center;
+  font-size: 17px;
+  margin-top: 100px;
+}
+.menu li{
+  height: 0px;
+}
+.menu-numbers img {
+  width: 17px;
+  height: 17px;
+  margin-left: -25px;
+}
+.menu-numbers {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  margin-top: 80px;
+  margin-left: 30px;
+  font-family: "Montserrat", sans-serif;
+}
+.menu-numbers-align h1{
+  font-size: 15px;
+  color: white;
+  margin-left: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+.menu-numbers-align {
+  display: flex;
+  justify-content: center;
+}
+.after-form-section-h1 h1{
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+}
+#img-form-text{
+  color: green;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+.nameReq{
+  border: none;
+  border-bottom: 2px solid green;
+}
+#blablabla{
+  display: flex;
+  flex-direction: column;
+}
+.blablabla{
+  display: flex;
+  flex-direction: column;
+}
+
+/*fixed button*/
+.fixed-button img{
+  width: 40px;
+  height: 40px;
+}
+.fixed-button{
+  position: fixed;
+  bottom: 90px;
+  right: 50px;
+  background-color: rgb(134, 134, 134);
+  border-radius: 100px;
+  padding: 10px 10px 10px 10px;
+}
+
+.fixed-button-2 img{
+  width: 50px;
+  height: 50px;
+}
+.fixed-button-2{
+  position: fixed;
+  bottom: 20px;
+  right: 50px;
+  background-color: rgb(134, 134, 134);
+  border-radius: 100px;
+  padding: 5px 5px 5px 5px;
+}
+.icon-section-text h1{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  text-align: start;
+  color: rgba(0, 158, 74, 1);
+}
+.icon-section-img img{
+  width: 100px;
+  height: auto;
+}
+.icon-section-img h1{
+  font-size: 15px;
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+}
+.icon-section-imgs{
+  margin-top: 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  justify-items: start;
+}
+.icon-section-text{
+  margin-top: 200px;
+}
+.icon-section-span{
+  font-size: 50px;
+}
+#us-us-us{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+
+
+
+
+
+
+.about-us-text h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 50px;
+}
+.about-us-text h2{
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 17px;
+  margin-top: 20px;
+}
+.about-us-text h3{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 17px;
+}
+.about-us-img img{
+  width: 400px;
+  height: auto;
+}
+.about-us-img{
+  display: flex;
+  justify-content: start;
+}
+.becouse-we h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  margin-top: 100px;
+}
+.becouse-we-h2 h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.becouse-we-h3 h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.filter-img img{
+  width: 400px;
+  height: auto;
+  margin-top: 200px;
+}
+.col-line{
+  padding-top: 200px;
+}
+.download-button h1{
+  color: white;
+  background-color: rgb(120, 120, 120);
+  padding: 10px 10px 10px 10px;
+  font-size: 15px;
+  font-weight: 300;
+  width: 200px;
+  text-align: center;
+  padding-bottom: 12px;
+  margin-top: 20px;
+}
+.friends a h1{
+  color: white;
+  background-color: rgb(120, 120, 120);
+  padding: 10px 10px 10px 10px;
+  font-size: 15px;
+  font-weight: 300;
+  width: 200px;
+  text-align: center;
+  padding-bottom: 12px;
+  margin-top: 20px;
+}
+#glavnaya{
+  margin-top: 50px;
+}
+#span-style{
+  color: rgba(0, 158, 74, 1);
+  font-weight: 400;
+}
+.box {
+  width: 65%;
+  margin-left: 30px;
+  border: none;
+  border-bottom: solid 2px green;
+  color: green;
+}
+.form-item {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.button{
+  margin-top: 30px;
+    color: white;
+    border: none;
+    background-color: #5bc11b;
+    padding: 5px 10px 5px 10px;
+    border-radius: 100px;
+    width: 128px;
+}
+#form-spann{
+  font-size: 20px;
+  color: green;
+  font-weight: 400;
+  font-family: "Noto Sans", sans-serif;
+}
+.box-2 {
+  color: green;
+  margin-top: 19px;
+  width: 160px;
+  border: 2px solid green;
+}
+.after-form-section-h1{
+    font-family: "Noto Sans", sans-serif;
+    color: rgba(0, 158, 74, 1);
+    font-size: 50px;
+    margin-top: 50px;
+}
+.after-form-section h2 {
+  font-family: "Noto Sans", sans-serif;
+  color: rgba(0, 158, 74, 1);
+  font-size: 25px;
+  margin-top: 20px;
+}
+.after-form-section h3 {
+  font-family: "Noto Sans", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  margin-top: 15px;
+}
+.friends h1{
+  font-family: "Noto Sans", sans-serif;
+  color: rgba(0, 158, 74, 1);
+  font-size: 40px;
+  margin-top: 100px;
+}
+#roro{
+  font-family: "Noto Sans", sans-serif;
+  color: rgba(0, 158, 74, 1);
+  font-size: 50px;
+  margin-top: 100px;
+}
+.roro-h2 h2{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 17px;
+  margin-top: 20px;
+}
+.friends h2{
+  font-family: "Noto Sans", sans-serif;
+  color: rgba(0, 158, 74, 1);
+  font-size: 30px;
+  margin-top: 20px;
+}
+.friends h3{
+  font-family: "Noto Sans", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  margin-top: 20px;
+}
+.friends img{
+  margin-top: 25px;
+  width: 80%;
+}
+
+
+
+
+
+
+
+
+
+.contact-call a{
+  text-decoration: none;
+}
+.form-text a {
+  text-decoration: none;
+  color: rgba(0, 158, 74, 1);
+  display: block;
+  margin-left: 0px;
+  width: 120px;
+  font-size: 16px;
+}
+.span-plus {
+  font-size: 40px;
+  font-weight: 300;
+  margin-top: -6px;
+}
+.plus h1 {
+  width: 200px;
+  font-size: 15px;
+  height: auto;
+  margin-top: 5px;
+  margin-left: 200px;
+  color: rgba(0, 158, 74, 1);
+  /* align-self: end; */
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+@media (max-width: 1199px){
+.plus h1 {
+  height: auto;
+  margin-top: 2px;
+  margin-left: 0px;
+  color: rgb(0 158 5);
+}
+.plus h1 {
+  height: auto;
+  margin-top: 2px;
+  margin-left: 70px;
+  color: rgb(0 158 5);
+}
+}
+
+
+
+
+
+
+.start-button-text a {
+  text-decoration: none;
+  width: 200px;
+  display: block;
+}
+
+
+
+.logo img{
+  width: 100px;
+  height: auto;
+  margin-top: 20px;
+}
+.phone img{
+  width: 15px;
+  height: auto;
+  margin-top: 24px;
+  margin-left: -70px;
+}
+.number h1{
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: -140px;
+  margin-top: 22px;
+}
+.gmaile img{
+  width: 16px;
+  height: auto;
+  margin-top: 23px;
+  margin-left: -180px;
+}
+.gmaile h1{
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: -245px;
+  margin-top: 20px;
+}
+.form-text a{
+  text-decoration: none;
+  color: rgba(0, 158, 74, 1);
+}
+.form-text h1{
+  font-family: "Noto Sans", sans-serif;
+  margin-top: 20px;
+  font-size: 15px;
+  margin-left: 250px;
+  width: 200px;
+}
+.telegram img{
+  width: 20px;
+  height: auto;
+  margin-top: 10px;
+}
+.Whatsapp img{
+  width: 20px;
+  height: auto;
+  margin-top: -15px;
+}
+.messenger{
+  text-align: -webkit-right;
+}
+.start-text h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 100px;
+  border: solid 2px rgba(0, 158, 74, 1);
+  border-radius: 100px;
+  padding: 5px 5px 5px 5px;
+  width: 565px;
+}
+.text-h1 h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 50px;
+}
+.color-text {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  /* position: absolute; */
+  margin-top: -45px;
+  margin-left: 187px;
+  display: block;
+}
+.start-button-text h1{
+  color: white;
+  background-color: rgba(0, 158, 74, 1);
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  font-weight: 300;
+  width: 200px;
+  text-align: center;
+  padding-bottom: 12px;
+  margin-top: 20px;
+}
+.start-button-text a{
+  text-decoration: none;
+}
+.after-button-text h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 120px;
+}
+.start-img img {
+  width: 440px;
+  height: auto;
+  margin-top: 40px;
+  border-radius: 110px;
+  border-bottom-left-radius: 0px;
+}
+.delivery h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 50px;
+  margin-top: 270px;
+}
+.delivery-text-4 h1{
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+}
+.delivery-span{
+  color: rgba(0, 158, 74, 1);
+  margin-top: 5px;
+}
+.delivery-text-2 h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+}
+.delivery-text-3 h1{
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 0px;
+}
+.track-img img{
+  width: 650px;
+  margin-top: 210px;
+}
+.track-align{
+  display: flex;
+  justify-content: flex-end;
+}
+.delivery-all{
+  margin-top: 300px;
+}
+.start-img{
+  display: flex;
+  justify-content: flex-end;
+}
+.baner img{
+  width: -webkit-fill-available;
+  margin-top: 200px;
+}
+.section-2-text h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 50px;
+  margin-top: 200px;
+}
+.section-2-img img {
+  width: 400px;
+  height: auto;
+  margin-top: 50px;
+}
+.section-2-texts h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 25px;
+  margin-top: 50px;
+}
+.section-2-texts h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 18px;
+  margin-top: 20px;
+}
+#margin-top-50px{
+  margin-top: 50px;
+}
+#margin-top--50px{
+  margin-top: -50px;
+}
+#margin-top--30px{
+  margin-top: -30px;
+}
+.map-text h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 50px;
+  margin-top: 200px;
+}
+.map-img img{
+  width: -webkit-fill-available;
+  margin-top: -200px;
+}
+.section-3-text h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 50px;
+  margin-top: 0px;
+}
+.section-3-text h2{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.section-3-img img{
+  width: 500px;
+  margin-top: 50px;
+}
+.section-3-img{
+  display: flex;
+  justify-content: end;
+}
+.section-4-text h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 50px;
+  margin-top: 200px;
+}
+.section-4-text h2{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 0px;
+}
+.section-5-text h1{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 50px;
+  margin-top: 100px;
+}
+#pogo{
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  margin-top: 100px;
+}
+#wowowo {
+  width: 70%;
+  margin-top: 115px;
+}
+.automat h2{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 17px;
+  margin-top: 50px;
+}
+.section-5-text h2{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.section-5-img{
+  display: flex;
+  justify-content: end;
+}
+.section-5-img img{
+  margin-top: 30px;
+  width: 500px;
+  height: auto;
+}
+.section-6-img img{
+  width: 420px;
+  height: auto;
+  margin-top: 30px;
+}
+.section-6-text h2{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  margin-top: 70px;
+}
+.contact-text h1{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+}
+.border-border{
+  border: solid 2px;
+  margin-top: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#margin-top-300px{
+  margin-top: 300px;
+}
+.contact-text-2 h1{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+}
+.contact-phone img{
+  width: 17px;
+  height: 17px;
+  margin-top: 2px;
+}
+.contact-phone h1{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.contact-phone{
+  display: flex;
+}
+.contact-gmail img{
+  width: 17px;
+  height: 17px;
+  margin-top: 2px;
+}
+.contact-gmail h1{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.contact-gmail{
+  display: flex;
+}
+.contact-call img{
+  width: 20px;
+  height: 20px;
+  margin-top: 2px;
+}
+.contact-call h1{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 18px;
+  margin-left: 10px;
+  color: rgba(241, 89, 39, 1);
+}
+.contact-call{
+  display: flex;
+  margin-top: 0px;
+}
+.google-map iframe{
+  margin-top: 0px;
+  width: -webkit-fill-available;
+  height: 400px;
+}
+
+
+footer{
+  margin-top: 0px;
+  background-color: black;
+  height: 300px;
+}
+.footer-logo img{
+  width: 170px;
+  height: auto;
+  margin-top: 50px;
+}
+.footer-col-1 h1{
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 20px;
+  font-weight: 300;
+}
+.footer-col-2 h1{
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 20px;
+  font-weight: 300;
+}
+.footer-col-3 h1{
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 20px;
+  font-weight: 300;
+}
+.footer-row-2-col-1 h1{
+  color: rgb(125, 125, 125);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 13px;
+  margin-top: 40px;
+  font-weight: 300;
+  text-align: center;
+}
+.footer-row-2-col-2 h1{
+  color: rgb(125, 125, 125);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 13px;
+  margin-top: 40px;
+  font-weight: 300;
+  text-align: center;
+}
+.footer-row-2-col-3{
+  display: flex;
+  justify-content: center;
+}
+.footer-row-2-col-3 img{
+  width: 25px;
+  height: 25px;
+  margin-top: 30px;
+}
+#font-weight-300{
+  font-weight: 300;
+  margin-top: 30px;
+}
+#margin-top-30px{
+  margin-top: 30px;
+}
+
+
+
+.burger-checkbox {
+  position: absolute;
+  visibility: hidden;
+}
+.burger {
+  position: relative;
+  z-index: 1;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  border: none;
+  background: transparent;
+  width: 40px;
+  height: 26px;
+}
+.burger::before,
+.burger::after {
+  content: '';
+  right: 10;
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 4px;
+  border-radius: 10px;
+  background: #000;
+}
+.burger::before {
+  top: 0;
+  box-shadow: 0 11px 0 #000;
+  transition: box-shadow .3s .15s, top .3s .15s, transform .3s;
+}
+.burger::after {
+  bottom: 0;
+  transition: bottom .3s .15s, transform .3s;
+}
+.burger-checkbox:checked + .burger::before {
+  top: 11px;
+  transform: rotate(45deg);
+  box-shadow: 0 6px 0 rgba(0,0,0,0);
+  transition: box-shadow .15s, top .3s, transform .3s .15s;
+  background-color: white;
+}
+.burger-checkbox:checked + .burger::after {
+  bottom: 11px;
+  transform: rotate(-45deg);
+  transition: bottom .3s, transform .3s .15s;
+  background-color: white;
+}
+.menu-list {
+  top: -134px;
+  position: fixed;
+  display: grid;
+  gap: 1px;
+  padding: 242px 0px;
+  margin-left: -54px;
+  background: rgba(0, 158, 74, 1);
+  list-style-type: none;
+  transform: translateX(-100%);
+  transition: .3s;
+  width: 230px;
+  height: 129%;
+  font-family: "Montserrat", sans-serif;
+  border: solid 1px #dee2e6;
+  margin-top: -23px;
+}
+.menu-item {
+  font-weight: 500;
+  display: block;
+  /* padding: 30px; */
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  padding-left: 5px;
+  background: rgba(0, 158, 74, 1);
+  height: 45px;
+  padding-top: 7px;
+}
+.menu-item:hover {
+  background: rgba(255,255,255,.2)
+}
+.burger-checkbox:checked ~ .menu-list {
+  transform: translateX(0px);
+}
+.menu {
+  position: fixed;
+  left: 44px;
+  top: 50px;
+}
+
+@media (max-width: 1200px) {
+  .friends h2 {
+    font-family: "Noto Sans", sans-serif;
+    color: rgba(0, 158, 74, 1);
+    font-size: 25px;
+    margin-top: 20px;
+}
+.friends h3 {
+  font-family: "Noto Sans", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  margin-top: 20px;
+}
+  .phone img {
+    width: 15px;
+    height: auto;
+    margin-top: 24px;
+    margin-left: -40px;
+}
+.number h1 {
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: -101px;
+  margin-top: 22px;
+}
+.gmaile img {
+  width: 16px;
+  height: auto;
+  margin-top: 23px;
+  margin-left: -110px;
+}
+.gmaile h1 {
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: -166px;
+  margin-top: 20px;
+}
+.form-text h1 {
+  font-family: "Noto Sans", sans-serif;
+  margin-top: 20px;
+  font-size: 15px;
+  margin-left: 103px;
+  width: 200px;
+}
+
+/*header ^ */
+
+
+
+.start-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 100px;
+  border: solid 2px rgba(0, 158, 74, 1);
+  border-radius: 100px;
+  padding: 5px 5px 5px 5px;
+  width: 452px;
+}
+.text-h1 h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  width: 440px;
+}
+.color-text {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  /* position: absolute; */
+  margin-top: -35px;
+  margin-left: 156px;
+  display: block;
+}
+.start-button-text h1 {
+  color: white;
+  background-color: rgba(0, 158, 74, 1);
+  padding: 10px 10px 10px 10px;
+  font-size: 16px;
+  font-weight: 300;
+  width: 200px;
+  text-align: center;
+  padding-bottom: 12px;
+  margin-top: 20px;
+}
+.after-button-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 66px;
+}
+.start-img img {
+  width: 300px;
+  height: auto;
+  border-bottom-left-radius: 0px;
+  margin-top: 79px;
+}
+.delivery h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  margin-top: 204px;
+}
+.delivery-text-2 h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 17px;
+}
+.delivery-text-3 h1 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 14px;
+  margin-top: 0px;
+}
+.track-img img {
+  width: 449px;
+  margin-top: 150px;
+}
+.baner img {
+  width: -webkit-fill-available;
+  margin-top: 150px;
+}
+.section-2-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  margin-top: 150px;
+}
+.section-2-img img {
+  width: 349px;
+  height: auto;
+  margin-top: 40px;
+}
+.section-2-texts h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 25px;
+  margin-top: 80px;
+}
+.section-2-texts h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 0px;
+}
+.map-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  margin-top: 150px;
+}
+.section-3-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  margin-top: -50px;
+}
+#margin-top-50px {
+  margin-top: 20px;
+}
+.section-3-text h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 18px;
+}
+.section-3-img img {
+  width: 350px;
+  margin-top: -40px;
+}
+.section-3-img img {
+  width: 350px;
+  margin-top: -40px;
+}
+.section-4-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  margin-top: 150px;
+}
+.section-4-text h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  margin-top: 0px;
+}
+.section-5-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  margin-top: 70px;
+}
+.section-5-text h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 20px;
+}
+.section-5-img img {
+  margin-top: 0px;
+  width: 378px;
+  height: auto;
+}
+.section-6-img img {
+  width: 300px;
+  height: auto;
+  margin-top: 18px;
+}
+.section-6-text h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-top: 44px;
+}
+
+
+
+/*footer*/
+
+.media-50px{
+  padding-top: 30px;
+}
+}
+
+@media (max-width: 991px){
+  .icon-section-text h1 {
+    font-family: "Noto Sans", sans-serif;
+    font-size: 20px;
+    text-align: start;
+    color: rgba(0, 158, 74, 1);
+}
+  .friends img {
+    margin-top: 11px;
+    width: 80%;
+}
+.friends h1 {
+  font-family: "Noto Sans", sans-serif;
+  color: rgba(0, 158, 74, 1);
+  font-size: 35px;
+  margin-top: 100px;
+}
+.friends h3 {
+  font-family: "Noto Sans", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  margin-top: 12px;
+}
+  .after-form-section h3 {
+    font-family: "Noto Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    margin-top: 15px;
+}
+.after-form-section h3 {
+  font-family: "Noto Sans", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  margin-top: 15px;
+}
+  .col-line {
+    padding-top: 40px;
+}
+  .filter-img img {
+    width: 350px;
+    height: auto;
+    margin-top: 274px;
+}
+.filter-img{
+  display: flex;
+    justify-content: center;
+}
+  .becouse-we-h3 h2 {
+    color: rgb(0, 0, 0);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 17px;
+    margin-top: 30px;
+}
+.about-us-img img {
+  width: 300px;
+  height: auto;
+}
+.becouse-we-h2 h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 17px;
+  margin-top: 30px;
+}
+.about-us-img {
+  display: flex;
+  justify-content: end;
+}
+.about-us-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  margin-top: -10px;
+}
+.about-us-text h3 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 16px;
+}
+  /* header*/
+  .delete-adaptive-991{
+    display: none;
+  }
+  .logo img {
+    width: 100px;
+    height: auto;
+    margin-top: 22px;
+}
+.gmaile h1 {
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: 0px;
+  margin-top: 20px;
+}
+.gmaile img {
+  width: 16px;
+  height: auto;
+  margin-top: 22px;
+  margin-left: 33px;
+}
+.number h1 {
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: -35px;
+  margin-top: 22px;
+}
+.phone img {
+  width: 15px;
+  height: auto;
+  margin-top: 25px;
+  margin-left: 3px;
+}
+
+
+/*body*/
+
+
+.start-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 69px;
+  border: solid 2px rgba(0, 158, 74, 1);
+  border-radius: 100px;
+  padding: 5px 5px 5px 5px;
+  width: 452px;
+}
+.after-button-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 28px;
+}
+.start-img img {
+  width: 214px;
+  height: auto;
+  border-radius: 70px;
+  border-bottom-left-radius: 0px;
+  margin-top: 82px;
+}
+.track-img img {
+  width: 369px;
+  margin-top: 64px;
+}
+.delivery h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 100px;
+}
+.delivery-text-2 h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+}
+.delivery-text-3 h1 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 0px;
+}
+.baner img {
+  width: -webkit-fill-available;
+  margin-top: 100px;
+}
+.section-2-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 100px;
+}
+.section-2-img img {
+  width: 311px;
+  height: auto;
+  margin-top: 29px;
+}
+.section-2-texts h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 25px;
+  margin-top: 56px;
+}
+.section-2-texts h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 0px;
+}
+.map-img img {
+  width: -webkit-fill-available;
+  margin-top: -148px;
+}
+.map-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 100px;
+}
+.section-3-img img {
+  width: 315px;
+  margin-top: -56px;
+}
+.section-3-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: -50px;
+}
+.section-3-text h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 18px;
+}
+.section-5-img img {
+  margin-top: -26px;
+  width: 324px;
+  height: auto;
+}
+.section-5-img img {
+  margin-top: -3px;
+  width: 324px;
+  height: auto;
+}
+.section-4-text h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 16px;
+  margin-top: 0px;
+}
+.section-5-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 27px;
+}
+.section-5-text h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 20px;
+}
+.section-6-text h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 38px;
+}
+.section-6-img img {
+  width: 250px;
+  height: auto;
+  margin-top: 18px;
+}
+.section-4-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 100px;
+}
+.contact-text h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 15px;
+}
+.contact-text-2 h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+}
+.contact-phone img {
+  width: 15px;
+  height: 15px;
+  margin-top: -1px;
+}
+.contact-gmail img {
+  width: 15px;
+  height: 15px;
+  margin-top: 0px;
+}
+.contact-call img {
+  width: 17px;
+  height: 17px;
+  margin-top: 1px;
+}
+.contact-phone h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-left: 10px;
+}
+.contact-gmail h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-left: 10px;
+}
+.contact-call h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+  color: rgba(241, 89, 39, 1);
+}
+.border-border{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+/*footer*/
+
+.footer-logo img {
+  width: 130px;
+  height: auto;
+  margin-top: 50px;
+}
+.footer-col-1 h1 {
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 20px;
+  font-weight: 300;
+}
+.footer-col-2 h1 {
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 20px;
+  font-weight: 300;
+}
+.footer-col-3 h1 {
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 20px;
+  font-weight: 300;
+}
+.footer-row-2-col-1 h1 {
+  color: rgb(125, 125, 125);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 11px;
+  margin-top: 40px;
+  font-weight: 300;
+  text-align: center;
+}
+.footer-row-2-col-2 h1 {
+  color: rgb(125, 125, 125);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 11px;
+  margin-top: 40px;
+  font-weight: 300;
+  text-align: center;
+}
+.footer-row-2-col-3 img {
+  width: 20px;
+  height: 20px;
+  margin-top: 38px;
+}
+.contact-call h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-left: 10px;
+  color: rgba(241, 89, 39, 1);
+  padding-top: 2px;
+}
+.contact-call {
+  display: flex;
+  margin-top: 9px;
+}
+
+.menu {
+  position: fixed;
+  right: 50px;
+  top: 50px;
+  left: auto;
+}
+.menu-list {
+  margin-left: 1200px;
+  transform: translateX(-100%);
+  transition: .3s;
+}
+.burger-checkbox:checked ~ .menu-list {
+  transform: translateX(-1338px);
+}
+.menu-item {
+  display: block;
+}
+
+
+#soso {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: 0px;
+}
+
+
+}
+
+@media (max-width: 767px){
+  
+  .aoao{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .wowo{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .wowowowo{
+    display: flex;
+    justify-content: center;
+  }
+  #wowowo {
+    width: 50%;
+    margin-top: 115px;
+}
+  #roro {
+    font-family: "Noto Sans", sans-serif;
+    color: rgba(0, 158, 74, 1);
+    font-size: 30px;
+    margin-top: 100px;
+}
+.roro-h2 h2 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 20px;
+}
+  #soso {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#sososo{
+  display: flex;
+    justify-content: center;
+}
+  .loko{
+    display: flex;
+    flex-direction: column;
+  }
+  .lokoko{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .icon-section-text h1 {
+    font-family: "Noto Sans", sans-serif;
+    font-size: 17px;
+    text-align: start;
+    color: rgba(0, 158, 74, 1);
+}
+.icon-section-span {
+  font-size: 33px;
+}
+.icon-section-imgs {
+  margin-top: 9px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  justify-items: start;
+}
+.delivery h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 87px;
+}
+
+  .block-block-align{
+    display: grid;
+    flex-direction: column-reverse;
+  }
+  .friends img {
+    margin-top: 11px;
+    width: 250px;
+}
+.friends-2{
+  display: flex;
+    justify-content: center;
+}
+  .becouse-we h1 {
+    color: rgba(0, 158, 74, 1);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 30px;
+    margin-top: 100px;
+}
+  .about-us-text h1 {
+    color: rgba(0, 158, 74, 1);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 30px;
+    margin-top: -85px;
+    text-align: center;
+}
+  .about-us-img img {
+    width: 300px;
+    height: auto;
+}
+.about-us-img {
+  display: flex;
+  justify-content: center;
+}
+  .about-us-text h1 {
+    color: rgba(0, 158, 74, 1);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 40px;
+    margin-top: 7px;
+}
+  /*header*/
+
+  .logo img {
+    width: 200px;
+    height: auto;
+    margin-top: 21px;
+}
+.gmaile img {
+  width: 16px;
+  height: auto;
+  margin-top: 22px;
+  margin-left: 4px;
+}
+.phone img {
+  width: 15px;
+  height: auto;
+  margin-top: 46px;
+  margin-left: 139px;
+}
+.gmaile h1 {
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: -18px;
+  margin-top: 19px;
+}
+.number h1 {
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  margin-left: 117px;
+  margin-top: 42px;
+  width: 200px;
+}
+.telegram img {
+  width: 20px;
+  height: auto;
+  margin-top: 18px;
+}
+
+
+
+
+/*body*/
+.start-img img {
+  width: 214px;
+  height: auto;
+  border-bottom-left-radius: 0px;
+  margin-top: 82px;
+  display: none;
+}
+.delivery h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 60px;
+}
+.track-img img {
+  width: 359px;
+  margin-top: 1px;
+}
+.baner img {
+  width: -webkit-fill-available;
+  margin-top: 73px;
+}
+.section-2-img{
+  display: flex;
+  justify-content: center;
+}
+.section-3-img {
+  display: flex;
+  justify-content: center;
+}
+.section-3-img img {
+  width: 315px;
+  margin-top: 0px;
+}
+.section-5-img {
+  display: flex;
+  justify-content: center;
+}
+.section-5-img img {
+  margin-top: -33px;
+  width: 200px;
+  height: auto;
+  margin-right: 77px;
+}
+.section-6-img img {
+  width: 200px;
+  height: auto;
+  margin-top: 0px;
+}
+.section-6-img{
+  display: flex;
+  justify-content: center;
+}
+#margin-top-300px {
+  margin-top: 100px;
+}
+.filter-img img {
+  width: 350px;
+  height: auto;
+  margin-top: 150px;
+}
+.koko{
+  display: flex;
+  flex-direction: column;
+}
+.oror{
+  display: flex;
+  justify-content: center;
+}
+
+
+/*footer*/
+
+
+.delete-adaptive-767{
+  display: none;
+}
+.footer-row-2-col-1 h1 {
+  color: rgb(125, 125, 125);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 11px;
+  margin-top: 40px;
+  font-weight: 300;
+  text-align: start;
+}
+.footer-row-2-col-3 {
+  display: flex;
+  justify-content: start;
+}
+.contact-call {
+  display: flex;
+  margin-top: 9px;
+  justify-content: start;
+  margin-left: 14px;
+}
+.color-text {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: -34px;
+  margin-left: 145px;
+  position: static;
+  display: block;
+}
+}
+@media (max-width: 584px){
+  .lololo{
+    display: flex;
+  }
+  .koko{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .start-text h1 {
+    color: rgba(0, 158, 74, 1);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 12px;
+    margin-top: 69px;
+    border: solid 2px rgba(0, 158, 74, 1);
+    border-radius: 100px;
+    padding: 5px 5px 5px 5px;
+    width: 270px;
+}
+.text-h1 h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  width: auto;
+}
+.start-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 69px;
+  border: solid 2px rgba(0, 158, 74, 1);
+  border-radius: 100px;
+  padding: 5px 5px 5px 5px;
+  width: 270px;
+  display: none;
+}
+.text-h1 h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  width: auto;
+  margin-top: 50px;
+}
+.color-text {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: -34px;
+  margin-left: 145px;
+  position: static;
+  display: block;
+  width: max-content;
+}
+}
+@media (max-width:505px){
+  .box {
+    width: 52%;
+    margin-left: 0px;
+    border: none;
+    border-bottom: solid 2px green;
+    color: green;
+    margin-top: -21px;
+}
+}
+@media (max-width: 500px){
+  .icon-section-img h1 {
+    font-size: 12px;
+    color: rgba(0, 158, 74, 1);
+    font-family: "Noto Sans", sans-serif;
+}
+.icon-section-img img {
+  width: 80px;
+  height: auto;
+}
+  .after-form-section h3 {
+    font-family: "Noto Sans", sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin-top: 15px;
+}
+.after-form-section h2 {
+  font-family: "Noto Sans", sans-serif;
+  color: rgba(0, 158, 74, 1);
+  font-size: 17px;
+  margin-top: 10px;
+}
+  .border-border{
+    display: flex;
+      flex-direction: column;
+  }
+  .contact-call {
+    display: flex;
+    margin-top: 9px;
+    justify-content: start;
+    margin-left: 0px;
+  }
+  #font-weight-300 {
+    font-weight: 300;
+    margin-top: 24px;
+}
+
+}
+@media (max-width: 550px){
+  .delete-adaptive-350{
+    display: none;
+  }
+.menu {
+  position: fixed;
+  right: 50px;
+  top: 35px;
+}
+}
+@media (max-width: 426px){
+  .icon-section-imgs {
+    margin-top: 38px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    justify-items: center;
+}
+.icon-section-text h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 17px;
+  text-align: start;
+  color: rgba(0, 158, 74, 1);
+}
+.icon-section-span {
+  font-size: 35px;
+}
+  .text-h1 h1 {
+    color: rgba(0, 158, 74, 1);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 40px;
+    width: 300px;
+    margin-top: 50px;
+}
+}
+@media (max-width:400px){
+  .opop{
+    width: 50%;
+  }
+  .opopop{
+    width: 42%;
+  }
+  .becouse-we-h3 h2 {
+    color: rgb(0, 0, 0);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 12px;
+    margin-top: 20px;
+}
+.becouse-we-h2 h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 20px;
+}
+  .about-us-img img {
+    width: 250px;
+    height: auto;
+}
+.about-us-text{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}
+.about-us-text h3 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 13px;
+}
+.about-us-text h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  margin-top: 1px;
+}
+.about-us-text h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  margin-top: 7px;
+}
+  .footer-row-2-col-1 h1 {
+    color: rgb(125, 125, 125);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 11px;
+    margin-top: 20px;
+    font-weight: 300;
+    text-align: start;
+}
+.footer-row-2-col-3 img {
+  width: 20px;
+  height: 20px;
+  margin-top: 18px;
+}
+#font-weight-300 {
+  font-weight: 300;
+  margin-top: 8px;
+}
+#margin-top-30px {
+  margin-top: 12px;
+}
+#font-weight-300 {
+  font-weight: 300;
+  margin-top: 6px;
+}
+footer {
+  margin-top: 0px;
+  background-color: black;
+  height: 300px;
+}
+.row-align-reverse{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+  background-color: #000;
+  width: max-content;
+  margin-left: 0px;
+}
+#margin-top-30px {
+  margin-top: 12px;
+}
+#font-weight-300 {
+  font-weight: 300;
+  margin-top: 13px;
+}
+.glavnaya-align{
+  margin-top: -20px;
+}
+#margin-top-30px {
+  margin-top: 14px;
+  margin-left: 1px;
+}
+}
+
+
+
+@media (max-width:330px){
+  .section-2-img img {
+    width: 220px;
+    height: auto;
+    margin-top: 29px;
+}
+#aoaoao {
+  width: 220px;
+}
+.text-h1 h1 {
+  color: rgba(0, 158, 74, 1);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 40px;
+  width: 220px;
+  margin-top: 50px;
+}
+  .color-text {
+    font-family: "Noto Sans", sans-serif;
+    font-size: 12px;
+    margin-top: 8px;
+    margin-left: 6px;
+    position: static;
+    display: block;
+    width: max-content;
+}
+}
+@media (max-width:430px){
+  .filter-img img {
+    width: 230px;
+    height: auto;
+    margin-top: 274px;
+}
+}
+
+/* Carousel - Dastan  */
+.swiper {
+  margin-top: 100px;
+  max-width: 1240px;
+  height: 70vh;
+}
+.swiper-slide{
+  position: relative;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.text-overlay {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.text-overlay h3 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.text-overlay p {
+  margin: 5px 0 0;
+  font-size: 1em;
+}
+
+@media (max-width: 768px) {
+  .text-overlay {
+      font-size: 0.9em;
+      padding: 5px;
+  }
+
+  .text-overlay h3 {
+      font-size: 1.2em;
+  }
+
+  .text-overlay p {
+      font-size: 0.9em;
+  }
+}
+
+@media (max-width: 480px) {
+  .text-overlay {
+      font-size: 0.8em;
+      padding: 5px;
+  }
+
+  .text-overlay h3 {
+      font-size: 1em;
+  }
+
+  .text-overlay p {
+      font-size: 0.8em;
+  }
+}
+.swiper-button-prev {
+  color: rgba(0, 158, 74, 1);
+}
+.swiper-button-next  {
+  color: rgba(0, 158, 74, 1);
+}
+
+.row-mt {
+  padding-top: 100px;
+  justify-content: space-between;
+}
+/* End of Carousel - Dastan */
