@@ -2066,7 +2066,6 @@ footer {
   margin-top: 100px;
   max-width: 1240px;
   height: 70vh;
-  z-index: -99999;
   position: relative;
 }
 .swiper-slide{
@@ -2076,7 +2075,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    z-index: -999;
   }
   
   .swiper-slide img {
@@ -2085,7 +2083,6 @@ footer {
     position: relative;
     object-fit: contain;
     object-position: center top;
-    z-index: -999;
 }
 
 .text-overlay {

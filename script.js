@@ -12,8 +12,18 @@ const swiper = new Swiper(".swiper", {
   },
 });
 
-document.getElementById("swiperjs").style.zIndex = "-999";
+document.getElementById("blablabla").style.display = "none";
 
 function blablabla() {
+  if (document.getElementById("blablabla").style.display == "none") {
+    document.getElementById("blablabla").style.display = "flex";
+  } else {
+    document.getElementById("blablabla").style.display = "none";
+  }
+}
+
+document.getElementById("swiperjs").style.zIndex = "-999";
+
+function swiperjsZindex() {
   document.getElementById("blablabla").style.zIndex = "-999";
 }
