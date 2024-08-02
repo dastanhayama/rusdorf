@@ -3,7 +3,7 @@ const swiper = new Swiper(".swiper", {
   direction: "horizontal",
   loop: true,
   autoplay: {
-    delay: 4000,
+    delay: 3000,
   },
   // Navigation arrows
   navigation: {
@@ -12,8 +12,8 @@ const swiper = new Swiper(".swiper", {
   },
 });
 
-document.getElementById('blablabla').style.display = 'none';
+document.getElementById("swiperjs").style.zIndex = "-999";
 
 function blablabla() {
-  document.getElementById('blablabla').style.display = 'flex';
+  document.getElementById("blablabla").style.zIndex = "-999";
 }

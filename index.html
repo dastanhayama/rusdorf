@@ -1,6 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+  (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+  m[i].l=1*new Date();
+  for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+  k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+  (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+  ym(97871699, "init", {
+       clickmap:true,
+       trackLinks:true,
+       accurateTrackBounce:true,
+       webvisor:true
+  });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/97871699" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+ <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MF6F4LJV');</script>
+  <!-- End Google Tag Manager -->
+   <!-- Top.Mail.Ru counter -->
+<script type="text/javascript">
+  var _tmr = window._tmr || (window._tmr = []);
+  _tmr.push({id: "3537751", type: "pageView", start: (new Date()).getTime()});
+  (function (d, w, id) {
+    if (d.getElementById(id)) return;
+    var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+    ts.src = "https://top-fwz1.mail.ru/js/code.js";
+    var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+    if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+  })(document, window, "tmr-code");
+  </script>
+  <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3537751;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+  <!-- /Top.Mail.Ru counter -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MF6F4LJV"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Rusdorf</title>
@@ -34,7 +76,7 @@
 
   <div class="fixed-button-2">
     <a href="https://wa.link/oqime6" style="text-decoration: none;">
-      <img src="img/Whatsapp-black.png" alt="">
+      <img src="img/whatsapp-black.png" alt="">
     </a>
   </div>
 
@@ -279,26 +321,26 @@
     </div>
 
 <!-- Carousel - Dastan -->
-<div class="swiper">
+<div class="swiper" id="swiperjs">
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
     <div class="swiper-slide">
-      <img src="img/commodity-1.png" alt="filter1">
+      <img src="img/carousel1.jpg" alt="filter1">
       <div class="text-overlay">
         <h3>Rusdorf</h3>
         <p>это единственная компания в России, которая занимается поставкой фильтров масляного тумана TINME</p>
     </div>
     </div>
     <div class="swiper-slide">
-      <img src="img/commodity-2.png" alt="filter2">
+      <img src="img/carousel2.jpeg" alt="filter2">
       <div class="text-overlay">
         <h3>Rusdorf</h3>
         <p>Качество воздуха после фильтра масляного тумана TINME соответствует международным стандартам</p>
     </div>
     </div>
     <div class="swiper-slide">
-      <img src="img/commodity-3.png" alt="filter3">
+      <img src="img/carousel3.jpeg" alt="filter3">
       <div class="text-overlay">
         <h3>Rusdorf</h3>
         <p>гарантия качества</p>
@@ -832,10 +874,50 @@
             <h1 id="pos">
               Наши партнеры
             </h1>
-            <a name="partners"></a>
+            <!-- <a name="partners"></a>
             <div class="us-company-img">
               <img src="img/pos-1.png" alt="">
 
+            </div> -->
+            <div class="container">
+              <div class="row mt-2">
+                <div class="col">
+                  <a href="http://mzrip.ru/" target="_blank">
+                    <img src="img/partner1.jpg" alt="partner1" class="partners-img">
+                  </a>
+                </div>
+                <div class="col">
+                  <a href="http://www.progress-omsk.ru/" target="_blank">
+                    <img src="img/partner2.png" alt="partner2" class="partners-img">
+                  </a>
+                </div>
+                <div class="col">
+                  <a href="https://www.vsmpo.ru/" target="_blank">
+                    <img src="img/partner3.jpg" alt="partner3" class="partners-img">
+                  </a>
+                </div>
+                <div class="col">
+                  <a href="https://mechavtomatika.ru/" target="_blank">
+                    <img src="img/partner4.png" alt="partner4" class="partners-img">
+                  </a>
+                </div>
+                <div class="row mt-2">
+                  <div class="col">
+                    <a href="https://pnppk.ru/" target="_blank">
+                      <img src="img/partner5.png" alt="partner5" class="partners-img">
+                    </a>
+                  </div>
+                  <div class="col">
+                    <a href="https://rosna.spb.ru/blog/" target="_blank">
+                      <img src="img/partner6.jpg" alt="partner6" class="partners-img">
+                    </a>
+                  </div>
+                  <div class="col">
+                    <a href="https://uwca.ru/" target="_blank">
+                      <img src="img/partner7.jpg" alt="partner7" class="partners-img">
+                    </a>
+                  </div>
+              </div>
             </div>
           </div>
         </div>
