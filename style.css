@@ -1,3 +1,8 @@
+*{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  box-sizing: border-box;
+}
 #menu-home-margin {
   margin-top: 0px;
 }
@@ -439,31 +444,49 @@
   height: auto;
   margin-top: 20px;
 }
-.phone img{
+
+
+.phone img {
   width: 15px;
   height: auto;
-  margin-top: 24px;
-  margin-left: -70px;
+  /* margin-top: 24px; */
+  /* margin-left: -70px; */
+  position: absolute;
+  top: 23px;
+  left: 178px;
+  z-index: -2;
 }
-.number h1{
+.number h1 {
   color: rgb(79, 79, 79);
   font-family: "Noto Sans", sans-serif;
   font-size: 15px;
-  margin-left: -140px;
-  margin-top: 22px;
+  /* margin-left: -140px; */
+  /* margin-top: 22px; */
+  position: absolute;
+  top: 21px;
+  left: 200px;
+  z-index: -2;
 }
-.gmaile img{
+.gmaile img {
   width: 16px;
   height: auto;
-  margin-top: 23px;
-  margin-left: -180px;
+  /* margin-top: 23px; */
+  /* margin-left: -180px; */
+  position: absolute;
+  top: 22px;
+  left: 350px;
+  z-index: -2;
 }
-.gmaile h1{
+.gmaile h1 {
   color: rgb(79, 79, 79);
   font-family: "Noto Sans", sans-serif;
   font-size: 15px;
-  margin-left: -245px;
-  margin-top: 20px;
+  /* margin-left: -245px; */
+  /* margin-top: 20px; */
+  position: absolute;
+  top: 20px;
+  left: 370px;
+  z-index: -2;
 }
 .form-text a{
   text-decoration: none;
@@ -881,6 +904,7 @@ footer{
   background-color: white;
 }
 .menu-list {
+  z-index: -5;
   top: -134px;
   position: fixed;
   display: grid;
@@ -935,31 +959,43 @@ footer{
   font-size: 20px;
   margin-top: 20px;
 }
-  .phone img {
-    width: 15px;
-    height: auto;
-    margin-top: 24px;
-    margin-left: -40px;
+.phone img {
+  width: 15px;
+  height: auto;
+  /* margin-top: 24px; */
+  /* margin-left: -40px; */
+  position: absolute;
+  top: 23px;
+  left: 234px;
 }
 .number h1 {
   color: rgb(79, 79, 79);
   font-family: "Noto Sans", sans-serif;
   font-size: 15px;
-  margin-left: -101px;
-  margin-top: 22px;
+  /* margin-left: -101px; */
+  /* margin-top: 22px; */
+  top: 21px;
+  position: absolute;
+  left: 255px;
 }
 .gmaile img {
   width: 16px;
   height: auto;
-  margin-top: 23px;
-  margin-left: -110px;
+  /* margin-top: 23px; */
+  /* margin-left: -110px; */
+  position: absolute;
+  left: 402px;
+  top: 23px;
 }
 .gmaile h1 {
   color: rgb(79, 79, 79);
   font-family: "Noto Sans", sans-serif;
   font-size: 15px;
-  margin-left: -166px;
-  margin-top: 20px;
+  /* margin-left: -166px; */
+  /* margin-top: 20px; */
+  position: absolute;
+  top: 20px;
+  left: 422px;
 }
 .form-text h1 {
   font-family: "Noto Sans", sans-serif;
@@ -1230,31 +1266,45 @@ footer{
     height: auto;
     margin-top: 22px;
 }
+
+
+
 .gmaile h1 {
   color: rgb(79, 79, 79);
   font-family: "Noto Sans", sans-serif;
   font-size: 15px;
-  margin-left: 0px;
-  margin-top: 20px;
+  /* margin-left: 0px; */
+  /* margin-top: 20px; */
+  position: absolute;
+  left: 440px;
+  top: 21px;
 }
 .gmaile img {
   width: 16px;
   height: auto;
-  margin-top: 22px;
-  margin-left: 33px;
+  /* margin-top: 22px; */
+  /* margin-left: 33px; */
+  position: absolute;
+  top: 23px;
+  left: 420px;
 }
 .number h1 {
   color: rgb(79, 79, 79);
   font-family: "Noto Sans", sans-serif;
   font-size: 15px;
-  margin-left: -35px;
-  margin-top: 22px;
+  /* margin-left: -35px; */
+  /* margin-top: 22px; */
+  position: absolute;
+  left: 266px;
 }
 .phone img {
   width: 15px;
   height: auto;
-  margin-top: 25px;
-  margin-left: 3px;
+  /* margin-top: 25px; */
+  /* margin-left: 3px; */
+  position: absolute;
+  left: 250px;
+  top: 24px;
 }
 
 
@@ -1649,33 +1699,46 @@ footer{
     height: auto;
     margin-top: 21px;
 }
+
+
 .gmaile img {
   width: 16px;
   height: auto;
-  margin-top: 22px;
-  margin-left: 4px;
+  /* margin-top: 22px; */
+  /* margin-left: 4px; */
+  position: absolute;
+  left: 330px;
 }
 .phone img {
   width: 15px;
   height: auto;
-  margin-top: 46px;
-  margin-left: 139px;
+  /* margin-top: 46px; */
+  /* margin-left: 139px; */
+  left: 331px;
+  top: 43px;
 }
 .gmaile h1 {
   color: rgb(79, 79, 79);
   font-family: "Noto Sans", sans-serif;
   font-size: 15px;
-  margin-left: -18px;
-  margin-top: 19px;
+  /* margin-left: -18px; */
+  /* margin-top: 19px; */
+  position: absolute;
+  left: 350px;
 }
 .number h1 {
   color: rgb(79, 79, 79);
   font-family: "Noto Sans", sans-serif;
   font-size: 15px;
-  margin-left: 117px;
-  margin-top: 42px;
+  /* margin-left: 117px; */
+  /* margin-top: 42px; */
   width: 200px;
+  left: 350px;
+  top: 42px;
 }
+
+
+
 .telegram img {
   width: 20px;
   height: auto;
@@ -1840,6 +1903,41 @@ footer{
   position: static;
   display: block;
   width: max-content;
+}
+.gmaile img {
+  width: 16px;
+  height: auto;
+  /* margin-top: 22px; */
+  /* margin-left: 4px; */
+  position: absolute;
+  left: 240px;
+}
+.phone img {
+  width: 15px;
+  height: auto;
+  /* margin-top: 46px; */
+  /* margin-left: 139px; */
+  left: 241px;
+  top: 43px;
+}
+.gmaile h1 {
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  /* margin-left: -18px; */
+  /* margin-top: 19px; */
+  position: absolute;
+  left: 260px;
+}
+.number h1 {
+  color: rgb(79, 79, 79);
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  /* margin-left: 117px; */
+  /* margin-top: 42px; */
+  width: 200px;
+  left: 260px;
+  top: 42px;
 }
 }
 @media (max-width:505px){
