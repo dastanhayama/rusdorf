@@ -1,3 +1,66 @@
+.header-items{
+  display: flex;
+  justify-content: space-between;
+}
+.header-item-1 img{
+  width: 130px;
+  height: 30px;
+  margin-top: 20px;
+}
+.header-item-2{
+  display: flex;
+  gap: 10px;
+}
+.header-number-1{
+  display: flex;
+  gap: 5px;
+  margin-top: 24px;
+  margin-left: 20px;
+}
+.header-number-1 img{
+  width: 15px;
+  height: 15px;
+}
+.header-number-1 h1{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 14px;
+}
+.header-number-2{
+  display: flex;
+  gap: 5px;
+  margin-top: 24px;
+  margin-left: 20px;
+}
+.header-number-2 img{
+  width: 15px;
+  height: 15px;
+}
+.header-number-2 h1{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 14px;
+}
+
+.prez-btn h1{
+  font-family: "Noto Sans", sans-serif;
+  color: rgba(0, 158, 74, 1);
+  font-size: 14px;
+  margin-top: 24px;
+}
+
+.header-messengers{
+  display: flex;
+  flex-direction: column;
+  margin-top: 7px;
+}
+.header-messengers img{
+  width: 20px;
+  height: 20px;
+}
+
+
+
+
+
 #glavnaya{
   margin-top: 50px;
 }
@@ -675,6 +738,12 @@ footer{
 }
 }
 @media (max-width: 767px){
+  .header-item-3{
+    display: none;
+  }
+
+
+
   .start-text-2 h1 {
     font-family: "Noto Sans", sans-serif;
     font-size: 25px;
@@ -868,6 +937,16 @@ footer{
   margin-top: 16px;
   margin-left: 10px;
   display: none;
+}
+}
+@media (max-width:500px){
+  .header-item-2{
+    display: none;
+  }
+  .header-messengers {
+    display: flex;
+    flex-direction: column;
+    margin-top: 9px;
 }
 }
 @media (max-width: 485px){
